@@ -1,15 +1,12 @@
 ---
-title: TITLE
-date: 2026-11-11 12:32:SS +0100
-categories: [AI Security, RAG Security]
-tags: [rag]     # TAG names should always be lowercase
----
----
-description: Testing the description section.
----
----
+title: "HTB Forest – AS-REP Roasting to Domain Admin"
+date: 2026-11-11 12:32:00 +0100
+categories: [HackTheBox, Active Directory]
+tags: [htb, asrep-roasting, bloodhound, dcsync]
+description: Walkthrough of HTB Forest, from AS-REP roasting to DCSync.
 toc: true
 ---
+
 ## Recon
 
 ```bash
