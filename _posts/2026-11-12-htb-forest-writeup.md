@@ -1,10 +1,8 @@
 ---
 title: "HTB Forest – AS-REP Roasting to Domain Admin"
-date: 2026-11-12 18:00:00 +0100
+date: 2026-11-12 10:00:00 +0100
 categories: [HackTheBox, Active Directory]
 tags: [htb, asrep-roasting, bloodhound, dcsync]
-image:
-  path: /assets/img/posts/forest/banner.png
 ---
 
 ## Recon
